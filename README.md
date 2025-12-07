@@ -5,10 +5,10 @@ written in Python.
 
 ## Features
 
--   Smooth fade-in interface
--   Customizable download folder
--   Real-time progress updates
--   Built using **yt-dlp** for reliable downloading
+-   User Friendly
+-   Lightweight
+-   Minimal
+-   Reliable
 
 ## Installation
 
@@ -16,7 +16,7 @@ written in Python.
 
 Download Python 3.10+ from: https://www.python.org/downloads/
 
-Make sure to check **"Add to PATH"** during installation.
+Make sure to check add to path during installation.
 
 ### 2. Install Requirements
 
@@ -34,12 +34,8 @@ Running the program:
 
 1.  Select a download folder\
 2.  Paste a YouTube URL\
-3.  Click **DOWNLOAD**
+3.  Click download
 
 ## Requirements
 
     yt-dlp
-
-## License
-
-MIT License. Feel free to use, modify, and redistribute.
