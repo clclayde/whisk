@@ -1,6 +1,6 @@
 # Whisk
 
-A lightweight, user-friendly, fast **M4A downloader for Windows**
+A lightweight, user-friendly, fast M4A downloader
 written in Python.
 
 ## Features
